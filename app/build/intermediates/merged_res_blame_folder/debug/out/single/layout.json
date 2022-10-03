@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\T\\.gradle\\daemon\\7.3.3\\com.example.notepad.app-mergeDebugResources-28:\\layout\\activity_all_notes_recycler.xml",
+        "source": "C:\\Users\\T\\.gradle\\daemon\\7.3.3\\com.example.notepad.app-main-31:\\layout\\activity_all_notes_recycler.xml"
+    },
+    {
+        "merged": "C:\\Users\\T\\.gradle\\daemon\\7.3.3\\com.example.notepad.app-mergeDebugResources-28:\\layout\\activity_all_notes.xml",
+        "source": "C:\\Users\\T\\.gradle\\daemon\\7.3.3\\com.example.notepad.app-main-31:\\layout\\activity_all_notes.xml"
+    },
+    {
+        "merged": "C:\\Users\\T\\.gradle\\daemon\\7.3.3\\com.example.notepad.app-mergeDebugResources-28:\\layout\\activity_all_notes_list.xml",
+        "source": "C:\\Users\\T\\.gradle\\daemon\\7.3.3\\com.example.notepad.app-main-31:\\layout\\activity_all_notes_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\T\\.gradle\\daemon\\7.3.3\\com.example.notepad.app-mergeDebugResources-28:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\T\\.gradle\\daemon\\7.3.3\\com.example.notepad.app-main-31:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\T\\.gradle\\daemon\\7.3.3\\com.example.notepad.app-mergeDebugResources-28:\\layout\\notes_element.xml",
+        "source": "C:\\Users\\T\\.gradle\\daemon\\7.3.3\\com.example.notepad.app-main-31:\\layout\\notes_element.xml"
+    },
+    {
+        "merged": "com.example.notepad.app-mergeDebugResources-28:/layout/activity_note.xml",
+        "source": "com.example.notepad.app-main-31:/layout/activity_note.xml"
+    }
+]

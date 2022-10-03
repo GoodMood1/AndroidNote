@@ -1,0 +1,36 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id clearMenu
+id darkThemeMenu
+id lightThemeMenu
+id loadMenu
+id notesList
+id notesRecycler
+id saveMenu
+id text
+id text1
+id text2
+id textNote
+id timeNote
+id titleNote
+layout activity_all_notes_list
+layout activity_all_notes_recycler
+layout activity_main
+layout activity_note
+layout notes_element
+menu main_menu
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Theme.Notepad
+xml backup_rules
+xml data_extraction_rules
